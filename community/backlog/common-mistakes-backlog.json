@@ -149,7 +149,7 @@
     "explanation": "Prefer noun linkage with の. (Pattern set 1)",
     "id": 19,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "私はお金がありませんです。",
@@ -165,7 +165,7 @@
     "explanation": "Do not stack ます and です in one predicate. (Pattern set 2)",
     "id": 21,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "日本語が好きをです。",
@@ -173,7 +173,7 @@
     "explanation": "好き takes が, not を. (Pattern set 2)",
     "id": 22,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "静かい部屋",
@@ -188,7 +188,7 @@
     "correct": "これはおいしい。",
     "explanation": "い-adjectives do not take だ in plain present. (Pattern set 2)",
     "id": 24,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
